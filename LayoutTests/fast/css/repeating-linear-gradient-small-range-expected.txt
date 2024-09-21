@@ -1,4 +1,0 @@
-This test passess if it doesn't crash.
-Repeating Gradient With Many Stops
-Repeating Gradient With Many Stops
-Repeating Gradient With Many Stops

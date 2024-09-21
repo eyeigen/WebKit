@@ -1,3 +1,0 @@
-
-PASS Style rules within @media are scoped
-

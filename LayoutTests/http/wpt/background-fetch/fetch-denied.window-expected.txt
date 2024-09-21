@@ -1,3 +1,0 @@
-
-PASS fetch should fail with NotAllowedError if permission is denied
-

@@ -1,3 +1,0 @@
-
-PASS document.timeline.animate() allows to set the animation's id.
-

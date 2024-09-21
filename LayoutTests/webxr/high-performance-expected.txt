@@ -1,4 +1,0 @@
-
-Default: OK
-XR Compatible (should be high-performance): high-performance
-

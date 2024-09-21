@@ -1,3 +1,0 @@
-
-PASS event.intercept() should abort if the handler throws
-

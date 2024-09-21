@@ -1,3 +1,0 @@
-
-PASS setHTMLUnsafe should leave the removed children alone.
-

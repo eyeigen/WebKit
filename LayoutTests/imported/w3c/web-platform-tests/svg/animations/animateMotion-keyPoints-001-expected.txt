@@ -1,3 +1,0 @@
-
-PASS 'calcMode' paced and 'keyPoints' on <animateMotion> with 'path'
-

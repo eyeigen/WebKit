@@ -1,3 +1,0 @@
-CONSOLE MESSAGE: TypeError: v1.requestPointerLock is not a function. (In 'v1.requestPointerLock()', 'v1.requestPointerLock' is undefined)
-CONSOLE MESSAGE: This test passes if it does not crash.
-

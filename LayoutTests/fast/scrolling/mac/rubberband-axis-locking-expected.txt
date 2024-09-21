@@ -1,6 +1,0 @@
-
-Tests axis locking while rubberbanding
-PASS successfullyParsed is true
-
-TEST COMPLETE
-

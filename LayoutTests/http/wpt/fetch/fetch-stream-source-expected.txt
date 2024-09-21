@@ -1,3 +1,0 @@
-
-PASS Only JS streams should check type
-

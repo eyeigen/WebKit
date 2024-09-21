@@ -1,6 +1,0 @@
-
-PASS internals.shadowRoot(image)?.getElementById("div#image-overlay") is undefined.
-PASS successfullyParsed is true
-
-TEST COMPLETE
-

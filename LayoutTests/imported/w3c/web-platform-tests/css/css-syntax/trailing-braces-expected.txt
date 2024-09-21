@@ -1,4 +1,0 @@
-Green
-
-PASS Trailing braces are not valid
-

@@ -1,5 +1,0 @@
-PASS child.getBoundingClientRect().width is 100
-PASS successfullyParsed is true
-
-TEST COMPLETE
-

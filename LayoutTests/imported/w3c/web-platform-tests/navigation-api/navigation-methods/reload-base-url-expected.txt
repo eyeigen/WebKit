@@ -1,4 +1,0 @@
-
-
-PASS reload() must ignore the Navigation object's base URL
-

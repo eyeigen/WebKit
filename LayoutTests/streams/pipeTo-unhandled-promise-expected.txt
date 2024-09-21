@@ -1,3 +1,0 @@
-
-PASS Ensure unhandledrejection is not called in case of pipeTo with readable be errored
-

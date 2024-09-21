@@ -1,4 +1,0 @@
-
-
-PASS event.intercept() throws if used after the dispatch phase
-

@@ -1,3 +1,0 @@
-
-PASS window.open() fires navigate event when targeting self
-

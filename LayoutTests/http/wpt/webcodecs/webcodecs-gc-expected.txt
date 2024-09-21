@@ -1,5 +1,0 @@
-
-PASS VP8 codec GC
-PASS VP9 codec GC
-PASS H.264 codec GC
-

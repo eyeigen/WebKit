@@ -1,6 +1,0 @@
-
-PASS Only supports index 0
-PASS Throws when with no range
-PASS Returns the same range object when with no selection change
-PASS Returns a different range object when with selection change
-

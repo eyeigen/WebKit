@@ -1,3 +1,0 @@
-
-PASS dispose events when forward-pruning same-document entries
-

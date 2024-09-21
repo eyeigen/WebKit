@@ -1,3 +1,0 @@
-Test that a stylesheet with a nonce is allowed with CSP served via header
-
-PASS

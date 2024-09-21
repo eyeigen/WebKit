@@ -1,3 +1,0 @@
-
-PASS Verifies that offsetTop and offsetLeft only go up one offsetParent when there are multiple nested offsetParents.
-

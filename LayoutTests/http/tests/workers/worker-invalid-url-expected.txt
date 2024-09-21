@@ -1,4 +1,0 @@
-Test worker invalid url exceptions. Should print one "PASS" statement.
-
-PASS: Got security error.
-

@@ -1,3 +1,0 @@
-
-PASS VTTRegion.id script-created region
-

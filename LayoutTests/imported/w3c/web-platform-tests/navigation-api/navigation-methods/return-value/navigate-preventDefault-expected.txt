@@ -1,3 +1,0 @@
-
-PASS navigate() when the onnavigate handler calls preventDefault()
-

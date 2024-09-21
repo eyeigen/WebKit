@@ -1,4 +1,0 @@
-
-PASS Triggered transition from first style update based on up-to-date container query
-PASS Triggered transition from the display change inside the up-to-date container query
-

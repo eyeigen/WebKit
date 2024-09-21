@@ -1,3 +1,0 @@
-
-FAIL #target3 is scroll-adjusted in both axises assert_equals: expected 50 but got 100
-

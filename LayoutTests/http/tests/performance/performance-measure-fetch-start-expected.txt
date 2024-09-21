@@ -1,1 +1,0 @@
-PASS - performance.measure did not throw

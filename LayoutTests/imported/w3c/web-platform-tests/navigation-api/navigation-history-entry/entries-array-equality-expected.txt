@@ -1,3 +1,0 @@
-
-PASS navigation.entries() should not return an identical object on repeated invocations
-

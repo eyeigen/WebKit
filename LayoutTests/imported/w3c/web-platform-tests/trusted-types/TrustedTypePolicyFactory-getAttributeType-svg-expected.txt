@@ -1,6 +1,0 @@
-
-PASS trustedTypes.getAttributeType html script[href]
-PASS trustedTypes.getAttributeType svg script[href]
-PASS trustedTypes.getAttributeType svg script[href] xlink href
-PASS trustedTypes.getAttributeType svg script[href] other href
-

@@ -1,4 +1,0 @@
-
-PASS test that CSSUnparsedValue with fallback is parsed properly
-PASS test that CSSUnparsedValue with nested fallback is parsed properly
-

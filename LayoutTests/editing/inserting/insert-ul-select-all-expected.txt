@@ -1,2 +1,0 @@
-This tests that we do not crash while inserting the ul
-.

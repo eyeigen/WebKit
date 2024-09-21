@@ -1,5 +1,0 @@
-
-
-PASS Validate video element is not object-fit fill
-PASS Validate video element is object-fit fill
-

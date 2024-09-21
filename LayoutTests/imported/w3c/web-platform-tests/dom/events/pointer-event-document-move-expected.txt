@@ -1,5 +1,0 @@
-TEST
-
-
-PASS Moving a node to new document should move the registered event listeners together
-

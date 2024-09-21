@@ -1,3 +1,0 @@
-
-PASS The animation-timeline property may not be used in keyframes
-

@@ -1,3 +1,0 @@
-
-PASS Permissions-Policy is by default 'self'.
-

@@ -1,2 +1,0 @@
-PASS: Has Selection
-PASS: Selection properly bounded

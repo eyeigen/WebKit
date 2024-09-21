@@ -1,4 +1,0 @@
-
-
-PASS event.intercept() throws if used on a canceled event
-

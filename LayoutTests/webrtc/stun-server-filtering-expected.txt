@@ -1,5 +1,0 @@
-
-PASS RTCPeerConnection and local STUN server
-PASS RTCPeerConnection and local TURN server
-PASS RTCPeerConnection and big TURN username/credential
-

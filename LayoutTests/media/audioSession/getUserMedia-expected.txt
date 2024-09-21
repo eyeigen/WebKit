@@ -1,3 +1,0 @@
-
-PASS getUserMedia and AudioSession type
-

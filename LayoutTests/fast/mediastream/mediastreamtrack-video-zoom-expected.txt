@@ -1,4 +1,0 @@
-
-
-PASS getUserMedia track and zoom
-

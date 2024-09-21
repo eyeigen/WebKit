@@ -1,2 +1,0 @@
-Synchronous scrolling reasons should be blank:
-

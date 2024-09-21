@@ -1,4 +1,0 @@
-
-PASS Property isolation value 'auto'
-PASS Property isolation value 'isolate'
-

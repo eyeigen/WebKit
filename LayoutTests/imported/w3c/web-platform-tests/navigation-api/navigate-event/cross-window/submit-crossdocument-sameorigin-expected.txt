@@ -1,4 +1,0 @@
-
-
-PASS submitting a <form> element that navigates cross-document targeting a same-origin window
-

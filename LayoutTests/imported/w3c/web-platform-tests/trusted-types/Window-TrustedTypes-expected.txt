@@ -1,4 +1,0 @@
-
-PASS factory = window.trustedTypes
-PASS factory construction fails
-

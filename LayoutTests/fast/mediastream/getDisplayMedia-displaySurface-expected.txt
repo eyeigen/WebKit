@@ -1,3 +1,0 @@
-
-PASS Validate displaySurface settings and capabilities
-

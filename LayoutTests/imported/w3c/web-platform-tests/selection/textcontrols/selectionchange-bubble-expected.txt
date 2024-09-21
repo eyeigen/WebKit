@@ -1,8 +1,0 @@
-
-
-
-PASS selectionchange bubbles from input
-PASS selectionchange bubbles from input when focused
-PASS selectionchange bubbles from textarea
-PASS selectionchange bubbles from textarea when focused
-

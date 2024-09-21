@@ -1,3 +1,0 @@
-
-PASS Test I420A with canvas.
-

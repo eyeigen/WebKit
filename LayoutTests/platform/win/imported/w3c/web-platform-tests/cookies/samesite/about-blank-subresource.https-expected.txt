@@ -1,3 +1,0 @@
-
-PASS SameSite cookies on subresource of top-level about:blank window
-

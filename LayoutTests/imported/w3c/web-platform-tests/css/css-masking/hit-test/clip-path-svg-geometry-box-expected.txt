@@ -1,3 +1,0 @@
-
-PASS Hit-tests of clip-path with geometry-box
-

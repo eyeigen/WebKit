@@ -1,6 +1,0 @@
-PASS: Has Caret Selection
-PASS: Has Selection
-PASS: Selection Changed
-PASS: Selection Changed
-PASS: Selection Changed
-

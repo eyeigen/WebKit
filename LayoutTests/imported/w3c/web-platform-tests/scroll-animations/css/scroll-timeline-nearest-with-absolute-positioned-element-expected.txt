@@ -1,3 +1,0 @@
-
-FAIL Resolving scroll(nearest) for an absolutely positioned element assert_equals: expected "100px" but got "300px"
-

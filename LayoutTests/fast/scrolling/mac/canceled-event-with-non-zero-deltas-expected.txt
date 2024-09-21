@@ -1,9 +1,0 @@
-wheel event deltaY 10
-wheel event deltaY 30
-wheel event deltaY 40
-wheel event deltaY 32
-wheel event deltaY 20
-PASS successfullyParsed is true
-
-TEST COMPLETE
-

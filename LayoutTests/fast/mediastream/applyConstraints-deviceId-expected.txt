@@ -1,4 +1,0 @@
-
-PASS applyConstraint deviceId for audio
-PASS applyConstraint deviceId for video
-

@@ -1,2 +1,0 @@
-CONSOLE MESSAGE: this test passes if it does not crash
-

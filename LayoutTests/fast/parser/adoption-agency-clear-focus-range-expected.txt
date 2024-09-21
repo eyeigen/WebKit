@@ -1,3 +1,0 @@
-Active Element must be moved to span: PASS
-range.startContainer must be moved to span: PASS
-

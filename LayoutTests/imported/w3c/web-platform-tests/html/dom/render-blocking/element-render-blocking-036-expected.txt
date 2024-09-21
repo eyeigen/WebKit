@@ -1,3 +1,0 @@
-
-PASS link URLs are relative to base URL, not to document URL
-

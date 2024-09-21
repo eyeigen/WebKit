@@ -1,3 +1,0 @@
-
-PASS navigate() to a javascript: URL
-

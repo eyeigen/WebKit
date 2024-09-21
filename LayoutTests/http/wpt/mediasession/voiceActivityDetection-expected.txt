@@ -1,5 +1,0 @@
-
-
-PASS Setup tests
-PASS voiceActivity detection tests
-

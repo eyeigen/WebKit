@@ -1,3 +1,0 @@
-
-PASS traverseTo() and intercept() with a fulfilled promise
-

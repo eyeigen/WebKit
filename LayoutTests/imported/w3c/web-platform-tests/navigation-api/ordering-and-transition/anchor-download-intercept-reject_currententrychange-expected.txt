@@ -1,5 +1,0 @@
-
-Harness Error (TIMEOUT), message = null
-
-TIMEOUT event and promise ordering for <a download> intercepted by passing a rejected promise to intercept() Test timed out
-

@@ -1,3 +1,0 @@
-
-PASS style query should evaluate to true
-

@@ -1,3 +1,0 @@
-
-PASS cookieStore.set and cookieStore.get use the creation url
-

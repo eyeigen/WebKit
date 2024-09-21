@@ -1,3 +1,0 @@
-
-PASS SVGAnimatedRect interface - utilizing the viewBox property of SVGSVGElement
-

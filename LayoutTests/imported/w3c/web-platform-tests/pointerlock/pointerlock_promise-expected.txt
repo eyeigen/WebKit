@@ -1,9 +1,0 @@
-Description
-
-This test validates that pointer lock returns a Promise.
-
-lockTarget
-Target
-
-PASS pointerlock_promise
-

@@ -1,4 +1,0 @@
-
-
-PASS Test that progress events are generated during loading of media resource.
-

@@ -1,3 +1,0 @@
-
-PASS Tests fractional fr-units which should multiply to whole numbers.
-

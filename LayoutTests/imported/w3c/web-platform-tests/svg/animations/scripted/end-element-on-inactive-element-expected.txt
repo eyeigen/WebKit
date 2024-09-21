@@ -1,3 +1,0 @@
-
-PASS endElement() on an inactive element
-

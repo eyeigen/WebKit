@@ -1,3 +1,0 @@
-
-PASS traverseTo() in a detached window
-

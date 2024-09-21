@@ -1,3 +1,0 @@
-
-PASS <a> cross-origin navigate event
-

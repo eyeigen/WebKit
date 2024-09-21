@@ -1,3 +1,0 @@
-
-PASS Anchoring combined with scroll bounds clamping in the document.
-

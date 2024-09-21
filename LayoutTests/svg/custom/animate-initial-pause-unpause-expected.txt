@@ -1,3 +1,0 @@
-
-PASS Pausing and unpausing an animation before it starts should have no effect
-

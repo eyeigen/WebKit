@@ -1,3 +1,0 @@
-
-PASS Contentvisibilityautostatechange fires once when c-v auto's dialog ancestor show()
-

@@ -1,4 +1,0 @@
-
-
-PASS Test event attributes for media element.
-

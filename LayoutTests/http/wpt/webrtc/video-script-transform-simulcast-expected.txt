@@ -1,5 +1,0 @@
-
-
-PASS setup
-PASS videos are playing with the correct resolutions
-

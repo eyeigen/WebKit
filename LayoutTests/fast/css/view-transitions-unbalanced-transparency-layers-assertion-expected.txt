@@ -1,2 +1,0 @@
-Test passes if there is no assertion or crash.
-

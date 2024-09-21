@@ -1,3 +1,0 @@
-
-PASS Fragment <a> click fires navigate event
-

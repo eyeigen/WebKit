@@ -1,3 +1,0 @@
-
-PASS event.intercept() intercepts a same-origin cross-document navigation
-

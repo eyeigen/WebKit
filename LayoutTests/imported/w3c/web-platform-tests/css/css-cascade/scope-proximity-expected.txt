@@ -1,5 +1,0 @@
-
-PASS Alternating light/dark
-PASS Proximity wins over order of appearance
-PASS Specificity wins over proximity
-

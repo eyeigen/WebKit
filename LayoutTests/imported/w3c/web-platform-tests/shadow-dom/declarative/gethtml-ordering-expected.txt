@@ -1,5 +1,0 @@
-
-PASS template position
-PASS attribute position
-PASS both template and attribute position
-

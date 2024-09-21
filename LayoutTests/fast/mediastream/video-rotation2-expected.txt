@@ -1,4 +1,0 @@
-
-
-PASS Ensure rotation is clockwise
-

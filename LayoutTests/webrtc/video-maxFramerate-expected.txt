@@ -1,4 +1,0 @@
-
-
-PASS Testing that maxFramerate has an effect
-

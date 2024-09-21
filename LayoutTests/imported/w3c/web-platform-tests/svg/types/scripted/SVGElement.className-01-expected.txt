@@ -1,3 +1,0 @@
-
-PASS SVGElement.prototype.className: Reflects to .classList
-

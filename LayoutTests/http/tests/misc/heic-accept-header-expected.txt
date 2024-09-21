@@ -1,3 +1,0 @@
-Tests that HEIC is sent in the accept header if it's enabled.
-
-PASS

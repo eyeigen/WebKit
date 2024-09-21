@@ -1,3 +1,0 @@
-
-PASS event.intercept() should resolve immediately if the handler doesn't return a promise
-

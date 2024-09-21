@@ -1,4 +1,0 @@
-
-
-PASS navigatesuccess does not fire for a cross-document navigation
-

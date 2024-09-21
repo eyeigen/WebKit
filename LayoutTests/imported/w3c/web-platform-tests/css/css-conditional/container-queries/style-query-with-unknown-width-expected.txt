@@ -1,4 +1,0 @@
-Should be green
-
-PASS width query should evaluate to unknown and style query to true
-

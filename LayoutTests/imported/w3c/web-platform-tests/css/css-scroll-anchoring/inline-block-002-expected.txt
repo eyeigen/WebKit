@@ -1,5 +1,0 @@
-
-
-
-PASS Anchor selection can select empty inline-blocks
-

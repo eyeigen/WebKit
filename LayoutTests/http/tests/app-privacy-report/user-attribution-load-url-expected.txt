@@ -1,3 +1,0 @@
-Test loadURL requests are succesfully attributed as non app initiated.
-PASS successfully loaded only non app initiated requests
-

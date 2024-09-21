@@ -1,5 +1,0 @@
-
-PASS Realtime encoding without framerate and bitrate
-PASS Realtime encoding without bitrate
-PASS Realtime encoding without framerate
-

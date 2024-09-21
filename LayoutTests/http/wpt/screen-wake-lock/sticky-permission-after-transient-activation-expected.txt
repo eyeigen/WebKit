@@ -1,3 +1,0 @@
-
-PASS sticky-permission-after-transient-activation
-

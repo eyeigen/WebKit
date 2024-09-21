@@ -1,4 +1,0 @@
-
-
-PASS Creating an ImageCapture from an audio track should throw "NotSupportedError"
-

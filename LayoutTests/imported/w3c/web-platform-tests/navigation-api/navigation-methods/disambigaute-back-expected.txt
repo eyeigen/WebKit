@@ -1,4 +1,0 @@
-
-
-PASS navigation.back() goes to the nearest back entry
-

@@ -1,6 +1,0 @@
-
-EVENT(canplay)
-RUN(video.currentTime = 11)
-EVENT(seeked)
-END OF TEST
-

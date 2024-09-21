@@ -1,3 +1,0 @@
-
-PASS VTTRegion.regionAnchorX script-created region
-

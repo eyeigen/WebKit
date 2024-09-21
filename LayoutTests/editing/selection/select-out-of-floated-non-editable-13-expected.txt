@@ -1,3 +1,0 @@
-select this firstfloat content
-and drag the selection all the way to the white area between the green and yellow boxes. PASS if the text [float content] is selected.
-PASS

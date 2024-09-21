@@ -1,2 +1,0 @@
-
-PASS: image controls exist in shadowDom

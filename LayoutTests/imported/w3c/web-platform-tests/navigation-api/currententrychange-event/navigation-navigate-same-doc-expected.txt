@@ -1,3 +1,0 @@
-
-PASS currententrychange fires for navigation.navigate()
-

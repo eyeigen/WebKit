@@ -1,3 +1,0 @@
-
-PASS A time input field with a bad user input should make validity.badInput true and have :invalid style.
-

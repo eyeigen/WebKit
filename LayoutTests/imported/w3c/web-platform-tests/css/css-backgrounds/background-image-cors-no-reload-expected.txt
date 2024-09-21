@@ -1,3 +1,0 @@
-
-PASS CORS image from variable doesn't cause re-downloads
-

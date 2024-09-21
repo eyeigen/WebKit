@@ -1,3 +1,0 @@
-
-PASS Elements in a "display: none" tree cannot start CSS Animations.
-

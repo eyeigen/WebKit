@@ -1,2 +1,0 @@
-CONSOLE MESSAGE: HierarchyRequestError: The operation would yield an incorrect node tree.
-Test passes if doesn't crash

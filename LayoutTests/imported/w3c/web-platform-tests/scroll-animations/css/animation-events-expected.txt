@@ -1,3 +1,0 @@
-
-FAIL View timelime generates animationstart and animationend events assert_equals: Target initially off-screen and no animationstart event expected 0 but got 1
-

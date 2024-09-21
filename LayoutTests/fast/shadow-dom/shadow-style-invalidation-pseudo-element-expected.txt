@@ -1,3 +1,0 @@
-
-PASS Author shadow tree is not invalidated in presence of user agent shadow tree targeting pseudo elements
-

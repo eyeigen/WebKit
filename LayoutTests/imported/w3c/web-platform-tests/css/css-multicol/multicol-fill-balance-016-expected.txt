@@ -1,5 +1,0 @@
-Test passes if there is a filled green square.
-
-
-PASS multicol-fill-balance-016
-

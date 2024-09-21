@@ -1,4 +1,0 @@
-x
-
-PASS Retargeting a transition should cause the old transition to be cancelled
-

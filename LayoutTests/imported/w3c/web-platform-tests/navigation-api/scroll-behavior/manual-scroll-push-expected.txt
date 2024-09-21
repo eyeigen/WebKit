@@ -1,3 +1,0 @@
-
-PASS scroll: scroll() should work on a push navigation
-

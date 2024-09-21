@@ -1,4 +1,0 @@
-
-
-FAIL navigate() with history: 'replace' option assert_equals: expected 2 but got 3
-

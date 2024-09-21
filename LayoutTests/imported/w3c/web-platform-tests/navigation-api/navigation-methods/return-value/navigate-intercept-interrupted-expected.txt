@@ -1,3 +1,0 @@
-
-PASS interrupted navigate() promises with intercept()
-

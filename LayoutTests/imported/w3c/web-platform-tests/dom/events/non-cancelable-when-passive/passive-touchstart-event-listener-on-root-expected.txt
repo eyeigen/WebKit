@@ -1,3 +1,0 @@
-
-PASS passive touchstart event listener on root
-

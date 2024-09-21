@@ -1,4 +1,0 @@
-PASS
-if not crash
-with floats
-

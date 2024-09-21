@@ -1,5 +1,0 @@
-
-PASS Verify first dedicated worker is not controlled
-PASS Register service worker
-PASS Verify memory-cache dedicated worker is controlled
-

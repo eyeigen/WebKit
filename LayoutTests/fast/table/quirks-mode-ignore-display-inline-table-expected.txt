@@ -1,3 +1,0 @@
-
-PASS Test to make sure that in quirks mode table elements with display act as they do in standard mode and retain display value
-

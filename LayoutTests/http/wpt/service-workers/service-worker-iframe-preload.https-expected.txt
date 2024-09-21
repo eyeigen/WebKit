@@ -1,5 +1,0 @@
-
-
-PASS Setup activating worker
-PASS Service worker load uses preload that starts as soon as possible
-

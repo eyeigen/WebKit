@@ -1,2 +1,0 @@
-PASS window.scrollY > 0 is true
-

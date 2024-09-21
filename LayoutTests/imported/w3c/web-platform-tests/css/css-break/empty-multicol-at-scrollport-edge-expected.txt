@@ -1,3 +1,0 @@
-
-PASS empty multicol doesn't add layout overflow
-

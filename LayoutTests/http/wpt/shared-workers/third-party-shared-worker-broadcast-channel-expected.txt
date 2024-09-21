@@ -1,3 +1,0 @@
-
-PASS BroadcastChannel between third-party iframe and shared worker should work properly
-

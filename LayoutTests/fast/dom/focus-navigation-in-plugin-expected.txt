@@ -1,4 +1,0 @@
-
-
-PASS Focus should navigate to <object>/<embed>
-

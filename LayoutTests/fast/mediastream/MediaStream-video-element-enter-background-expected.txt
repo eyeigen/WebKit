@@ -1,4 +1,0 @@
-
-
-PASS MediaStream video should restart when going to foreground
-

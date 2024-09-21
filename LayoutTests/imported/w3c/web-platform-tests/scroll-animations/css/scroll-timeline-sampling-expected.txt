@@ -1,3 +1,0 @@
-
-FAIL Scroll position is sampled once per frame assert_equals: expected "150px" but got "100.078125px"
-

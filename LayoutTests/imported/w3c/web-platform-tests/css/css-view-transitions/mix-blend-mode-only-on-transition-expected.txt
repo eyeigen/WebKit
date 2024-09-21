@@ -1,3 +1,0 @@
-
-PASS Blend modes are set up on paired transitions
-

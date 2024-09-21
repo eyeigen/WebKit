@@ -1,3 +1,0 @@
-
-PASS Wildcard given - policy creation works
-

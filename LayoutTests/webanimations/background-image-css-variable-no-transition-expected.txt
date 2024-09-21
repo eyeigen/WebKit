@@ -1,6 +1,0 @@
-PASS numberOfAnimationsBeforeStyleChange is 0
-PASS numberOfAnimationsAfterStyleChange is 0
-PASS successfullyParsed is true
-
-TEST COMPLETE
-

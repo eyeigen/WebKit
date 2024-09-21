@@ -1,3 +1,0 @@
-CONSOLE MESSAGE: Error on video element
-CONSOLE MESSAGE: Error on video element
-

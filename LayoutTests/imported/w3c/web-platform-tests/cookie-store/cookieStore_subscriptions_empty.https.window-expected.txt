@@ -1,3 +1,0 @@
-
-PASS Newly registered and activated service worker has no subscriptions
-

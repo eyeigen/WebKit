@@ -1,3 +1,0 @@
-
-PASS Tests element removal and hiding within the AnimationIteration event handler. Should not crash
-

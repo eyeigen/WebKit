@@ -1,4 +1,0 @@
-
-PASS VTTCue.snapToLines, script-created cue
-PASS VTTCue.snapToLines, parsed cue
-

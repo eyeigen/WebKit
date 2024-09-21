@@ -1,4 +1,0 @@
-
-
-FAIL navigate.traverseTo() cancelled by top frame cancels cross-document iframe assert_equals: expected 2 but got 1
-

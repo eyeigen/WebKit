@@ -1,6 +1,0 @@
-
-PASS scrollWidth/Height with negative margins: overflow: visible;
-PASS scrollWidth/Height with negative margins: overflow: hidden;
-PASS scrollWidth/Height with negative margins: overflow: auto;
-PASS scrollWidth/Height with negative margins: overflow: clip;
-

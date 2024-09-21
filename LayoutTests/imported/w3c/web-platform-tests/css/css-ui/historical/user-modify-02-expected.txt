@@ -1,4 +1,0 @@
-
-PASS contenteditable="true" doesn't use unsupported user-modify property
-PASS contenteditable="plaintext-only" doesn't use unsupported user-modify property
-

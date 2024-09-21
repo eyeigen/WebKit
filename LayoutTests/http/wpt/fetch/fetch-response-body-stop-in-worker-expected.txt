@@ -1,3 +1,0 @@
-
-PASS fetch response body stop in a worker
-

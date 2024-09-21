@@ -1,8 +1,0 @@
-
-This test requires WebKitTestRunner
-
-PASS text is "{320,240}"
-PASS successfullyParsed is true
-
-TEST COMPLETE
-

@@ -1,2 +1,0 @@
-PASS window.getSelection().toString() == 'Something' is true
-Something

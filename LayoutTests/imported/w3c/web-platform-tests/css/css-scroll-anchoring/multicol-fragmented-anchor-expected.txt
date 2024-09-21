@@ -1,4 +1,0 @@
-content
-
-PASS An element in a fragmented div should be able to be selected as an anchor node.
-

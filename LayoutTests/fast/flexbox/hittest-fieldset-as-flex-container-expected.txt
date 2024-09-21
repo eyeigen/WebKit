@@ -1,3 +1,0 @@
-legend
-fieldset
-PASS if legend (hittest): [object HTMLLegendElement]

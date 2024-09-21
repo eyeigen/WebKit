@@ -1,3 +1,0 @@
-
-PASS entry.getState() behavior after navigating away using the navigation API, then back
-

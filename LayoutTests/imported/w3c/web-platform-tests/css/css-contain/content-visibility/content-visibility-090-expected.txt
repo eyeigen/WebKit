@@ -1,3 +1,0 @@
-
-PASS Content Visibility: scrollLeft/scrollTop/scrollWidth/scrollHeight measure correctly
-

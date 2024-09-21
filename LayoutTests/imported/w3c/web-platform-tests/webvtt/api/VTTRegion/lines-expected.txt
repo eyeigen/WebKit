@@ -1,3 +1,0 @@
-
-PASS VTTRegion.lines script-created region
-

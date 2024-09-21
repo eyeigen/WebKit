@@ -1,4 +1,0 @@
-
-
-PASS select showPicker() throws when disabled
-

@@ -1,3 +1,0 @@
-
-PASS VTTRegion.viewportAnchorY script-created region
-

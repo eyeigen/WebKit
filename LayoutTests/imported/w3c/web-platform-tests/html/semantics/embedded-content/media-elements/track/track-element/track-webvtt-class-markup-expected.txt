@@ -1,4 +1,0 @@
-
-PASS Check cues from resources/class.vtt
-PASS Check cues from resources/class-bad.vtt
-

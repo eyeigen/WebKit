@@ -1,3 +1,0 @@
-
-PASS history.pushState() with an empty string URL and base URL different from document's URL
-

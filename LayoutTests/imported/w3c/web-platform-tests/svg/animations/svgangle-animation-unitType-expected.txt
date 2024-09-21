@@ -1,3 +1,0 @@
-
-FAIL Test change of unit type for SVGAngle animation. assert_equals: expected 4 but got 2
-

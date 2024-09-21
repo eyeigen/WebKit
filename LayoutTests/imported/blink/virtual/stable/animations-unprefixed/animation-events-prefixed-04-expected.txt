@@ -1,3 +1,0 @@
-
-PASS Tests that custom events with prefixed animations names are correctly dispatched
-

@@ -1,4 +1,0 @@
-abc
-
-PASS Ensure there is no scroll anchoring adjustment in subscroller.
-

@@ -1,4 +1,0 @@
-
-PASS :adapter_info:
-PASS :adapter_info_with_hints:
-

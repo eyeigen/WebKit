@@ -1,3 +1,0 @@
-
-PASS click() on hidden SUMMARY should toggle DETAILS.
-

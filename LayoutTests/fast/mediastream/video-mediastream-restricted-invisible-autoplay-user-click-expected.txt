@@ -1,4 +1,0 @@
-
-
-PASS Removing behavior restrictions should not disallow invisible uninterruption
-

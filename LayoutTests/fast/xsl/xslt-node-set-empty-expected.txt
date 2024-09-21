@@ -1,3 +1,0 @@
-
-PASS a variable set to node-set of a string should not halt processing
-

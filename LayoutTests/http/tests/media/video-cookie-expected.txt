@@ -1,4 +1,0 @@
-
-
-PASS Tests that the media player will send the relevant cookies when requesting the media file.
-

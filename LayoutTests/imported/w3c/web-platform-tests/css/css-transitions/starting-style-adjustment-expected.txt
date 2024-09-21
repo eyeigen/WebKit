@@ -1,4 +1,0 @@
-
-
-PASS The display property in <legend> @starting-style should be blockified so no transition should start
-

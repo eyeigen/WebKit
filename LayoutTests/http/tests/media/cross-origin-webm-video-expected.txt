@@ -1,6 +1,0 @@
-
-PASS if no crash occurs.
-
-EVENT(canplay)
-END OF TEST
-

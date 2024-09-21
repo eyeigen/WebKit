@@ -1,4 +1,0 @@
-
-PASS Image autoupgraded
-PASS Image of other host autoupgraded
-

@@ -1,3 +1,0 @@
-
-PASS NavigationCurrentEntryChangeEvent's properties
-

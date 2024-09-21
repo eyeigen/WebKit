@@ -1,3 +1,0 @@
-
-PASS reload() in a detached window
-

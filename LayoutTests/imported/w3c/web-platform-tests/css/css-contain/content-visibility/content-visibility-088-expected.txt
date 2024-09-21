@@ -1,3 +1,0 @@
-
-PASS Content Visibility: getClientRects measures correctly
-

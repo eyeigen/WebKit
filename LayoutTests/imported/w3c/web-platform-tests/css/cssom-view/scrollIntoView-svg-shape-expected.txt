@@ -1,5 +1,0 @@
-
-PASS scrollIntoView on an SVG shape element, geometry
-PASS scrollIntoView on an SVG shape element, translated
-PASS scrollIntoView on an SVG shape element, rotated
-

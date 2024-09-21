@@ -1,4 +1,0 @@
-Click me
-
-PASS <a download> click fires navigate event
-

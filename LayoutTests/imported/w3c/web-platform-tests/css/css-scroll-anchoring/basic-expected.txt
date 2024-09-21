@@ -1,5 +1,0 @@
-abc
-def
-
-PASS Minimal scroll anchoring example.
-

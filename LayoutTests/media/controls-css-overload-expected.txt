@@ -1,4 +1,0 @@
-
-
-PASS Testing that overloading some controls doesn't crash the browser
-

@@ -1,3 +1,0 @@
-
-PASS Tests that loading of data URL images works when COEP: require-corp is used
-

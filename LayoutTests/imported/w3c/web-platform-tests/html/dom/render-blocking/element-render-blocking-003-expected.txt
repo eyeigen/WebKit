@@ -1,3 +1,0 @@
-
-PASS adding link in the head defers frames
-

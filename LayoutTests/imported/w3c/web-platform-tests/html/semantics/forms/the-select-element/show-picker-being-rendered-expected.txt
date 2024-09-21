@@ -1,3 +1,0 @@
-
-FAIL select showPicker() throws when not being rendered assert_throws_dom: function "() => { select.showPicker(); }" did not throw
-

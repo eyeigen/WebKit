@@ -1,3 +1,0 @@
-
-PASS CSSOM: Test that rules with invalid pseudo elements are not found
-

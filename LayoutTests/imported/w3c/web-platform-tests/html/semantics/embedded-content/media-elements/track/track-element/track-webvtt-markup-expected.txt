@@ -1,4 +1,0 @@
-
-PASS Check cues from resources/markup.vtt
-PASS Check cues from resources/markup-bad.vtt
-

@@ -1,3 +1,0 @@
-
-PASS window.opener setter throws TypeError if called on non-configurable accessor property
-

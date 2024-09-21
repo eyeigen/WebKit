@@ -1,5 +1,0 @@
-
-
-PASS Reject multiple calls to XRSession.end() - webgl
-PASS Reject multiple calls to XRSession.end() - webgl2
-

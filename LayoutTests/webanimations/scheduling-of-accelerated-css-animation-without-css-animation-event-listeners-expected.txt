@@ -1,3 +1,0 @@
-
-PASS CSS Animations that run accelerated do not need to schedule animation resolution without CSS Animation event listeners.
-

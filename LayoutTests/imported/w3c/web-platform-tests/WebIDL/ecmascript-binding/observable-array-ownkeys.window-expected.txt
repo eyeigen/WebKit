@@ -1,3 +1,0 @@
-
-PASS ObservableArray's ownKeys trap
-

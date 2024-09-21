@@ -1,3 +1,0 @@
-
-PASS <svg:a> click fires navigate event
-

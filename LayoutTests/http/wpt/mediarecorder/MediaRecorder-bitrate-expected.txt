@@ -1,5 +1,0 @@
-
-PASS audio bitrate
-PASS video bitrate
-PASS audio video bitrate
-

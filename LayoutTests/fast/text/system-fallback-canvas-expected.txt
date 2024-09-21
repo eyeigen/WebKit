@@ -1,1 +1,0 @@
-This test makes sure that drawing a system fallback font to canvas doesn't crash any process. The test passes if there is no crash.

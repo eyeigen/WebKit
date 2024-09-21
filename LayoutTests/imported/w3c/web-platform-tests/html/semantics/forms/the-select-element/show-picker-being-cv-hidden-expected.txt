@@ -1,3 +1,0 @@
-
-FAIL select showPicker() throws when content-visibility hidden assert_throws_dom: function "() => { select.showPicker(); }" did not throw
-

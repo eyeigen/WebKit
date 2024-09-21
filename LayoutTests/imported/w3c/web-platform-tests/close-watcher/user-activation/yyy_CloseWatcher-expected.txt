@@ -1,3 +1,0 @@
-
-FAIL Create three close watchers with user activation promise_test: Unhandled rejection with value: object "ReferenceError: Can't find variable: CloseWatcher"
-

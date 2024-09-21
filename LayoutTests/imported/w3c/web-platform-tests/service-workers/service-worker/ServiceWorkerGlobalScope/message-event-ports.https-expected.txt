@@ -1,3 +1,0 @@
-
-PASS Verify MessageEvent.ports getter returns the same object
-

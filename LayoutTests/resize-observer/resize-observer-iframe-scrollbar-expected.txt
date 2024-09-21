@@ -1,6 +1,0 @@
-
-PASS Got 3 rAF callbacks without Resize Observer firing
-PASS successfullyParsed is true
-
-TEST COMPLETE
-

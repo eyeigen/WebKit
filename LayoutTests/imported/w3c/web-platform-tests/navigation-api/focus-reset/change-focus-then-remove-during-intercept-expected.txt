@@ -1,3 +1,0 @@
-
-PASS change-focus-then-remove-during-intercept
-

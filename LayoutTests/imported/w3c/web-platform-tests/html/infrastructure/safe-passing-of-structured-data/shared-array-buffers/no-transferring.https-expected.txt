@@ -1,5 +1,0 @@
-
-PASS Trying to transfer a SharedArrayBuffer to this window throws
-PASS Trying to transfer a SharedArrayBuffer to a worker throws
-PASS Trying to transfer a SharedArrayBuffer through a MessagePort throws
-

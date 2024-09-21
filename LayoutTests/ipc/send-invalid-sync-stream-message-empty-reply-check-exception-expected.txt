@@ -1,3 +1,0 @@
-
-PASS Sending sync stream message with incorrect parameters shouldn't crash when IPCTestingAPI is enabled
-

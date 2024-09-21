@@ -1,3 +1,0 @@
-
-PASS navigate() and intercept() with a rejected promise
-

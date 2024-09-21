@@ -1,8 +1,0 @@
-Tests that input text elements contained in a combobox inherit the combobox role.
-
-PASS: input.role === 'AXRole: AXComboBox'
-
-PASS successfullyParsed is true
-
-TEST COMPLETE
-

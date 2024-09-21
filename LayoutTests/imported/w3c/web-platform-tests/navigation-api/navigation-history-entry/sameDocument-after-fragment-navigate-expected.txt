@@ -1,3 +1,0 @@
-
-PASS entry.sameDocument after same-document navigations
-

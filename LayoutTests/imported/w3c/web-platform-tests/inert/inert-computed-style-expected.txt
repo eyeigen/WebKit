@@ -1,3 +1,0 @@
-
-PASS inert isn't hit-testable, but that isn't expose in the computed style
-

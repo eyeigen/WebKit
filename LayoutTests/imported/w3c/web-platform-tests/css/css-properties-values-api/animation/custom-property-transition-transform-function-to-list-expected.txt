@@ -1,3 +1,0 @@
-
-PASS A custom property cannot yield a CSS Transition from <transform-function> to <transform-list>
-

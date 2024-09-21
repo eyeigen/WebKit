@@ -1,3 +1,0 @@
-
-PASS Ensure redefining then does not alter blob promise
-

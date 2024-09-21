@@ -1,5 +1,0 @@
-There should be a 100px tall pink block below, with a scrollable box inside.
-
-
-PASS #container 1
-

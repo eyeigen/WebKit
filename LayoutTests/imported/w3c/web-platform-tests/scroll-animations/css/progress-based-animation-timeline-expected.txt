@@ -1,3 +1,0 @@
-
-FAIL progress based animation timeline works assert_equals: expected "120px" but got "100.029999px"
-

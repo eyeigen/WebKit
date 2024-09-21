@@ -1,3 +1,0 @@
-
-PASS Content Visibility: clientLeft/clientTop/clientWidth/clientHeight measure correctly
-

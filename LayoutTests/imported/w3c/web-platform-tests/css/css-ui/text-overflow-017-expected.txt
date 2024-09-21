@@ -1,5 +1,0 @@
-First, click the blue box. 
-
-
-PASS CSS Basic User Interface Test: interacting with the ellipsis
-

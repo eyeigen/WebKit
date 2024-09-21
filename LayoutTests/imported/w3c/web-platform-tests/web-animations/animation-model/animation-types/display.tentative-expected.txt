@@ -1,3 +1,0 @@
-
-PASS Display can be held by animation
-

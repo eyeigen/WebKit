@@ -1,4 +1,0 @@
-
-PASS Check cues from resources/timestamp.vtt
-PASS Check cues from resources/timestamp-bad.vtt
-

@@ -1,4 +1,0 @@
-Test should not crash.
-Click to test pushState through a user gesture
-User gesture: QuotaExceededError: Attempt to store more data than allowed using history.pushState()
-

@@ -1,3 +1,0 @@
-
-PASS document.timeline.maximumFrameRate is defined and reports an expected frame rate
-

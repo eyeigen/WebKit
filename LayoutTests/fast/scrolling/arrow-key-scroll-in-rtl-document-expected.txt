@@ -1,1 +1,0 @@
-PASS: scrollLeft is less than or equal to -40

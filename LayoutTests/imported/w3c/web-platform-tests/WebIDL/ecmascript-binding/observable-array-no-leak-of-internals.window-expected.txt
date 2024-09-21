@@ -1,3 +1,0 @@
-
-PASS ObservableArray's internals won't leak
-

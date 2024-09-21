@@ -1,5 +1,0 @@
-CONSOLE MESSAGE: NotSupportedError: Shared workers are not supported
-
-Harness Error (FAIL), message = NotSupportedError: Shared workers are not supported
-
-

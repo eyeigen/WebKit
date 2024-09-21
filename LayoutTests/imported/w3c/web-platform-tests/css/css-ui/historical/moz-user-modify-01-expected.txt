@@ -1,3 +1,0 @@
-
-PASS -moz-user-modify is not supported
-

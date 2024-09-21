@@ -1,7 +1,0 @@
-2d.reset.state.global_alpha
-
-check that the state is reset
-
-
-PASS check that the state is reset
-

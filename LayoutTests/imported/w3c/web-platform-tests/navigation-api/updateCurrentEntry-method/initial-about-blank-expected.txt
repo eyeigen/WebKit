@@ -1,4 +1,0 @@
-
-
-PASS updateCurrentEntry() must throw if the document is still on the initial about:blank
-

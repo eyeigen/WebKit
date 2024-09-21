@@ -1,3 +1,0 @@
-
-PASS View Transitions: @view-transition opt-in programmatically.
-

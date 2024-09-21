@@ -1,3 +1,0 @@
-
-PASS traverseTo() promise rejection with rejected intercept()
-

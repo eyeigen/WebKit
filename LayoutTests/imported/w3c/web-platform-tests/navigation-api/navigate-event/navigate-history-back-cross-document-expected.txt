@@ -1,4 +1,0 @@
-
-
-FAIL navigate event for history.back() - cross-document assert_true: expected true got false
-

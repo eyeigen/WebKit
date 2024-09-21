@@ -1,3 +1,0 @@
-
-PASS transition skipped because callback has invalid syntax
-

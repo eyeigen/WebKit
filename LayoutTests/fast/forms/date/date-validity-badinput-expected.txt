@@ -1,3 +1,0 @@
-
-PASS A date input field with a bad user input should make validity.badInput true and have :invalid style.
-

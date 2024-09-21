@@ -1,3 +1,0 @@
-
-PASS Speech recognition after successful audio gum
-

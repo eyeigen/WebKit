@@ -1,3 +1,0 @@
-
-PASS reset clears to transparent black
-

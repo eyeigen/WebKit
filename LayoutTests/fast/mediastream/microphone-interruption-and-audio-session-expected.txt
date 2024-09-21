@@ -1,3 +1,0 @@
-
-PASS AudioSession category should staty to PlayAndRecord when interrupted, not when muted by user
-

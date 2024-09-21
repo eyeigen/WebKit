@@ -1,3 +1,0 @@
-
-PASS Content-visibility is animatable
-

@@ -1,4 +1,0 @@
-
-PASS default encodings values
-PASS Sender and receiver parameters
-

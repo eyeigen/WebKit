@@ -1,3 +1,0 @@
-
-FAIL ViewTimeline use untransformed box for range calculations assert_approx_equals: progress at contain 0% expected 0 +/- 0.000001 but got 1
-

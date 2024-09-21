@@ -1,3 +1,0 @@
-
-PASS Tests that appending events for dispatching doesn't crash.
-

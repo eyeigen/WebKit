@@ -1,4 +1,0 @@
-
-PASS document.innerText assigned via policy (successful HTML transformation).
-PASS document.innerText = null.
-

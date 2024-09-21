@@ -1,3 +1,0 @@
-
-PASS unnamespaced lang attribute only works on elements in the HTML namespace
-

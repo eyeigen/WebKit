@@ -1,3 +1,0 @@
-Test passes if the load succeeds.
-
-

@@ -1,5 +1,0 @@
-
-PASS Default CSS properties on mfrac
-1
-2
-

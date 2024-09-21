@@ -1,4 +1,0 @@
-
-PASS scale
-PASS rotate
-

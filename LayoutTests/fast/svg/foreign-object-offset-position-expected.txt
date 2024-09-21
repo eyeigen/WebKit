@@ -1,6 +1,0 @@
-PASS event.offsetX is 10
-PASS event.offsetY is 10
-PASS successfullyParsed is true
-
-TEST COMPLETE
-

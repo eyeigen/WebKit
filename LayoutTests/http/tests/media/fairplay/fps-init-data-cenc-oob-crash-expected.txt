@@ -1,7 +1,0 @@
-PROMISE: requestMediaKeySystemAccess resolved
-PROMISE: createMediaKeys resolved
-FETCH: server certificate recieved
-PROMISE: arrayBuffer resolved
-PROMISE: setServerCertificate resolved
-END OF TEST
-

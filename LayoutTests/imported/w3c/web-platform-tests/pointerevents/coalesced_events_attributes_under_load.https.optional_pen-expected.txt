@@ -1,3 +1,0 @@
-
-FAIL Coalesced pointermoves under load assert_true: Coalesed pointermoves received expected true got false
-

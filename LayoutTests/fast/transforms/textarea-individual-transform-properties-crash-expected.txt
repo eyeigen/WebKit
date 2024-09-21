@@ -1,1 +1,0 @@
-Apply individual transform properties to textarea. This should not crash.

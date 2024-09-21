@@ -1,3 +1,0 @@
-
-PASS :only-child style queries without transition shouldn't crash
-

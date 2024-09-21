@@ -1,7 +1,0 @@
-Swipe target
-startSlowSwipeGesture
-didBeginSwipe
-completeSwipeGesture
-willEndSwipe
-didEndSwipe
-

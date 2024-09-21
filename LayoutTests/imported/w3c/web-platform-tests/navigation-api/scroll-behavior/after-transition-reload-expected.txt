@@ -1,3 +1,0 @@
-
-FAIL scroll: after-transition should work on a reload navigation assert_equals: expected 18 but got 431
-

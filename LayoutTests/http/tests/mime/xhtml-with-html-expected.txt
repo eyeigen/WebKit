@@ -1,2 +1,0 @@
-xhtml-with-html.xhtml has MIME type text/plain
-

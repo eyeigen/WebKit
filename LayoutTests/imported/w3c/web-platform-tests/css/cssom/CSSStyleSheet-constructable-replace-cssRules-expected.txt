@@ -1,4 +1,0 @@
-
-PASS cssRules tests (sync: true)
-PASS cssRules tests (sync: false)
-

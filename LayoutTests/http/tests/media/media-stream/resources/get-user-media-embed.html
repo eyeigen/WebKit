@@ -1,9 +1,0 @@
-<script>
-onload = () => {
-    navigator.mediaDevices.getUserMedia({ video: true }).then(() => {
-        parent.postMessage("OK", "*");
-    }, () => {
-        parent.postMessage("KO", "*");
-    });
-}
-</script>

@@ -1,7 +1,0 @@
-There should be two identical blue squares below.
-
-
-PASS [data-offset-y] 1
-PASS [data-offset-y] 2
-PASS [data-offset-y] 3
-

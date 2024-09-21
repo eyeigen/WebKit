@@ -1,3 +1,0 @@
-
-PASS IndexedDB: Attempting to serialize a SharedArrayBuffer should throw
-

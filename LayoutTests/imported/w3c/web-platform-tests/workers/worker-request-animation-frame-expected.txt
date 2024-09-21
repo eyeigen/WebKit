@@ -1,3 +1,0 @@
-
-PASS requestAnimationTime reports frame time relative to worker load
-

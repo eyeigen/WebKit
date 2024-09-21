@@ -1,3 +1,0 @@
-
-NOTRUN Testing BFCache support for page with closed WebTransport connection and "Cache-Control: no-store" header. BFCache not supported.
-

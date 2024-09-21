@@ -1,4 +1,0 @@
-| "<#selection-anchor>"
-| <div>
-| <#selection-focus>
-| ""

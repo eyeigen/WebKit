@@ -1,4 +1,0 @@
-
-PASS navigate() navigates same-document and fires onnavigate (async)
-PASS navigate() navigates same-document and fires onnavigate (sync)
-

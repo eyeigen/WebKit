@@ -1,3 +1,0 @@
-
-PASS View transitions: skipTransition() in pageswap aborts the transition
-

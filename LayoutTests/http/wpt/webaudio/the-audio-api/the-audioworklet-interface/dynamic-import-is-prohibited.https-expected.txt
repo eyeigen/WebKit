@@ -1,3 +1,0 @@
-
-PASS dynamic-import is prohibited in AudioWorklets
-

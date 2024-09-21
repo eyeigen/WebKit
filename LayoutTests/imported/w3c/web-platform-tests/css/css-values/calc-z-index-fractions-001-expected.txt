@@ -1,8 +1,0 @@
-
-PASS testing z-index: calc(2.5 / 2)
-PASS testing z-index: calc(3 / 2)
-PASS testing z-index: calc(3.5 / 2)
-PASS testing z-index: calc(-2.5 / 2)
-PASS testing z-index: calc(-3 / 2)
-PASS testing z-index: calc(-3.5 / 2)
-

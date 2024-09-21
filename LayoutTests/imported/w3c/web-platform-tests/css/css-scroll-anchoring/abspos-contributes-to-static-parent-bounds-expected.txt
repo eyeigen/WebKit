@@ -1,3 +1,0 @@
-
-PASS Abs-pos with zero-height static parent.
-

@@ -1,3 +1,0 @@
-
-PASS ensure event source do not reuse memory cache
-

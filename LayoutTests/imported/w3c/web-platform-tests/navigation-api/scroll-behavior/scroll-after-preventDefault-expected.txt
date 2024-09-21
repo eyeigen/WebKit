@@ -1,4 +1,0 @@
-CONSOLE MESSAGE: Unhandled Promise Rejection: AbortError: Navigation aborted
-
-PASS scroll: scroll() should throw after preventDefault
-

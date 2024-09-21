@@ -1,9 +1,0 @@
-
-EVENT(durationchange)
-EVENT(loadedmetadata)
-EVENT(loadeddata)
-EVENT(canplay)
-EVENT(canplaythrough)
-EVENT(playing)
-END OF TEST
-

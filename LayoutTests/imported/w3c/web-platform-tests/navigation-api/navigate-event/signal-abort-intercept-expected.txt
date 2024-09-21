@@ -1,3 +1,0 @@
-
-PASS event.intercept() does not signal event.signal
-

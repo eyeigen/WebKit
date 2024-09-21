@@ -1,3 +1,0 @@
-
-PASS Reinserting SVG animation into document should continue the animation
-

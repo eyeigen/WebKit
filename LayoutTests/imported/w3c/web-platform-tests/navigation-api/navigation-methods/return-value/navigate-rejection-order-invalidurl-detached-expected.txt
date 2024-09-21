@@ -1,3 +1,0 @@
-
-PASS navigate() with an invalid URL in a detached iframe throws "SyntaxError", not "InvalidStateError"
-

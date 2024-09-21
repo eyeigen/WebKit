@@ -1,5 +1,0 @@
-
-Harness Error (TIMEOUT), message = null
-
-TIMEOUT Getting and setting the animation range Test timed out
-

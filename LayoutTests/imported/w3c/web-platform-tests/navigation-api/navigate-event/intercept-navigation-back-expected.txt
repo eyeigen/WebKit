@@ -1,3 +1,0 @@
-
-PASS event.intercept() can intercept navigation.back()
-

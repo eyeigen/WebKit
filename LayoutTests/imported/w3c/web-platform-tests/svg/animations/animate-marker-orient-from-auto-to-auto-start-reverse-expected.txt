@@ -1,3 +1,0 @@
-
-FAIL Animate SVGMarkerElement orientAttr from auto to auto-start-reverse assert_equals: expected (undefined) undefined but got (number) 0
-

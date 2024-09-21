@@ -1,4 +1,0 @@
-
-PASS cookiechange subscriptions reset across service worker unregistrations
-PASS cookiechange subscriptions persist across service worker updates
-

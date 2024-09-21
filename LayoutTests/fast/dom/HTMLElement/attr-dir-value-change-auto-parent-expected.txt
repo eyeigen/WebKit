@@ -1,6 +1,0 @@
-PASS getComputedStyle(element).getPropertyValue('direction') is 'rtl'
-PASS getComputedStyle(element).getPropertyValue('direction') is 'rtl'
-PASS successfullyParsed is true
-
-TEST COMPLETE
-مرحبا

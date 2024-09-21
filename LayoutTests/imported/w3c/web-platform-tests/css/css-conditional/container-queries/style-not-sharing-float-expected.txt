@@ -1,3 +1,0 @@
-
-PASS Check that style is not sharing in the case of Container Queries
-

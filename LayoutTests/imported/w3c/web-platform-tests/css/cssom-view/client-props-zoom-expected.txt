@@ -1,4 +1,0 @@
-
-PASS Client properties for elements with css zoom
-PASS Client properties for elements with css zoom 1
-

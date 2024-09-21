@@ -1,4 +1,0 @@
-
-
-PASS reload() appears as a reload to navigation timing APIs
-

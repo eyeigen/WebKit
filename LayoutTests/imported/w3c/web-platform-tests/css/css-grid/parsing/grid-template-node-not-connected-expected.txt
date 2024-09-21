@@ -1,3 +1,0 @@
-
-PASS grid-template-node-not-connected
-

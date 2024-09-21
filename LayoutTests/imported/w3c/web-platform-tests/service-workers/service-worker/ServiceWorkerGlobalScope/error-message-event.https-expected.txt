@@ -1,3 +1,0 @@
-
-PASS Verify error event is received
-

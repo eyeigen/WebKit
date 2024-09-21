@@ -1,6 +1,0 @@
-Press Enter in the text field below.
-
-
-
-PASS textInput: Enter key for input element, <input>
-

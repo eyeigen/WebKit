@@ -1,4 +1,0 @@
-
-PASS VTTCue.vertical, script-created cue
-PASS VTTCue.vertical, parsed cue
-

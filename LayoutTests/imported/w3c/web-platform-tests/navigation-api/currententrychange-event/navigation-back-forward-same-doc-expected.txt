@@ -1,3 +1,0 @@
-
-PASS currententrychange fires for same-document navigation.back() and navigation.forward()
-

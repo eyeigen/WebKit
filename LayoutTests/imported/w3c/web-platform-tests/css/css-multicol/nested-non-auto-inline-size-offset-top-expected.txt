@@ -1,3 +1,0 @@
-
-FAIL offsetTop on element in second outer column assert_equals: expected 0 but got 90
-

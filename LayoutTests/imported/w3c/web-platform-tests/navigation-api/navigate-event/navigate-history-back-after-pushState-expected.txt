@@ -1,3 +1,0 @@
-
-PASS history.back() fires the navigate event when reversing a pushState()
-

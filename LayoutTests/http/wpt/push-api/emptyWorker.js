@@ -1,1 +1,0 @@
-// This service worker script is intentionally left blank.

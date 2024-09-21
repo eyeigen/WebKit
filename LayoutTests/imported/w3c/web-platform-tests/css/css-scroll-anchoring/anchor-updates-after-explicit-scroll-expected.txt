@@ -1,3 +1,0 @@
-
-FAIL Anchor node recomputed after an explicit scroll occurs. assert_equals: expected 200 but got 100
-

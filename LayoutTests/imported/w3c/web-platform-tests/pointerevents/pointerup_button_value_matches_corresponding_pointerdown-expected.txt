@@ -1,4 +1,0 @@
-
-
-PASS Test that the 'button' property of a pointerup event matches the 'button' property of the corresponding pointerdown event
-

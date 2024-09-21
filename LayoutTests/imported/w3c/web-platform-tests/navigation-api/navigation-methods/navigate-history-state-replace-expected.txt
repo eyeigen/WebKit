@@ -1,3 +1,0 @@
-
-PASS history.state should be nulled by navigate()
-

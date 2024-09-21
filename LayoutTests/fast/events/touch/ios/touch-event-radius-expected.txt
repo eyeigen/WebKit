@@ -1,3 +1,0 @@
-PASS: radiusX is correct.
-PASS: radiusY is correct.
-

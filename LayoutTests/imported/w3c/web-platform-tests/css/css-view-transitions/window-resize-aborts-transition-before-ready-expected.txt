@@ -1,5 +1,0 @@
-
-PASS
-View transitions: Resizing viewport before animating rejects the ready promise.
-
-

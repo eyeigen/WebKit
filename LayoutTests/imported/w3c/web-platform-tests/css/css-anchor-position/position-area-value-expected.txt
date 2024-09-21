@@ -1,9 +1,0 @@
-
-PASS top left
-PASS span-top left
-PASS top span-left
-PASS top center
-PASS left center
-PASS start center
-PASS center start
-

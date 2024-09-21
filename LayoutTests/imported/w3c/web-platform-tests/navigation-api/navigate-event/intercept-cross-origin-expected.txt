@@ -1,3 +1,0 @@
-
-PASS event.intercept() should throw if called for a cross origin navigation
-

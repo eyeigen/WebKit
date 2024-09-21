@@ -1,3 +1,0 @@
-
-FAIL Shared worker with data: url inherits CSP assert_equals: expected "setTimeout blocked" but got "setTimeout allowed"
-

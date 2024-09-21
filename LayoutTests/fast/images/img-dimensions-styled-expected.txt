@@ -1,4 +1,0 @@
-
-
-PASS HTMLImageElement.width/height returns styled dimensions.
-

@@ -1,3 +1,0 @@
-
-PASS VideoFrame constructor should throw type error with bad data
-

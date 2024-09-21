@@ -1,4 +1,0 @@
-
-
-PASS navigate() inside onpagehide
-

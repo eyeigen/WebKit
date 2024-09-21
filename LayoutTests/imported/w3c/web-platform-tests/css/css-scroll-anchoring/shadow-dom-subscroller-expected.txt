@@ -1,5 +1,0 @@
-Scrolling over this element doesn't scroll the main scroller
-
-
-PASS Ensure there is no scroll anchoring adjustment in the main frame.
-

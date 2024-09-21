@@ -1,6 +1,0 @@
-PASS firstTarget is "#overlay"
-PASS secondTarget is "DIV.fixed"
-PASS successfullyParsed is true
-
-TEST COMPLETE
-This test requires WebKitTestRunner.

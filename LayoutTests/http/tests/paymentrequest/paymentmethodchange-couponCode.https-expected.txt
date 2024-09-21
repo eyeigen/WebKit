@@ -1,3 +1,0 @@
-
-PASS Should propagate `couponCode` if provided.
-

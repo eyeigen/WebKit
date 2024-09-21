@@ -1,3 +1,0 @@
-
-PASS Tests the document scroller in quirks mode
-

@@ -1,4 +1,0 @@
-This tests that we do not crash while moving paragraphs.
-
-PASS
-

@@ -1,3 +1,0 @@
-
-PASS An element can be :checked and :indeterminate at the same time
-

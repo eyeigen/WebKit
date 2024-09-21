@@ -1,3 +1,0 @@
-
-PASS CSS Text Test: text-align - computed value for match-parent on the root element
-

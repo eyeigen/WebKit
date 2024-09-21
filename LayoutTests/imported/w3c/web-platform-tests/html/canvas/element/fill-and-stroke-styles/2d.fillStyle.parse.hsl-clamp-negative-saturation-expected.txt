@@ -1,7 +1,0 @@
-2d.fillStyle.parse.hsl-clamp-negative-saturation
-Actual output:
-Expected output:
-
-
-PASS Canvas test: 2d.fillStyle.parse.hsl-clamp-negative-saturation
-

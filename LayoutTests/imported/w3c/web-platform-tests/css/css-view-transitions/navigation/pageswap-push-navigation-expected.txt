@@ -1,3 +1,0 @@
-
-PASS pageswap on navigation from script
-

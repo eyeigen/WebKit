@@ -1,3 +1,0 @@
-
-PASS There should not be style updates while accelerated JS-originated animations are running on sibling elements with the same CSS class.
-

@@ -1,3 +1,0 @@
-
-PASS Smooth scroll in load event handler
-

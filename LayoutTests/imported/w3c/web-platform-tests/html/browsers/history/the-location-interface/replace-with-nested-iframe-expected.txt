@@ -1,3 +1,0 @@
-
-PASS Browser sends Referer header when location.replace is called in iframe document on another nested iframe element
-

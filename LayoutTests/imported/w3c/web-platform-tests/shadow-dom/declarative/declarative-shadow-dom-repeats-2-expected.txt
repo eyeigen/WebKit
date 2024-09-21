@@ -1,3 +1,0 @@
-
-PASS Repeated declarative shadow roots keep only the first
-

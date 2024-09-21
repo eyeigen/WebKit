@@ -1,4 +1,0 @@
-bottom
-
-PASS Zero-height container with visible overflow.
-

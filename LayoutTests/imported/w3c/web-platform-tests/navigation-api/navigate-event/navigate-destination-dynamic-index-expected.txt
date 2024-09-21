@@ -1,3 +1,0 @@
-
-PASS navigate event destination.index should be dynamic
-

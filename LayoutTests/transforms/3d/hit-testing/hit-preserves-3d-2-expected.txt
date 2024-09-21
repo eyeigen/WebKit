@@ -1,2 +1,0 @@
-Hit Me
-Hit correct target: PASSED

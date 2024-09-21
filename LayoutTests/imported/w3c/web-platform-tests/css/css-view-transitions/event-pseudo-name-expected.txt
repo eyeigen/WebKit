@@ -1,3 +1,0 @@
-
-PASS verifies pseudo name includes a tag
-

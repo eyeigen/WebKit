@@ -1,9 +1,0 @@
-div a
-div b
-div c
-
-Harness Error (TIMEOUT), message = null
-
-TIMEOUT selectionchange event firing when mousemove event is prevented Test timed out
-NOTRUN dragstart event firing when mousemove event is prevented
-

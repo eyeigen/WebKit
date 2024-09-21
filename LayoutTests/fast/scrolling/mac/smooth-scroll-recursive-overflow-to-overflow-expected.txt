@@ -1,2 +1,0 @@
-SUCCESSFUL: keyboard scroll propagated from overflow:scroll region to parent overflow:scroll region.
-

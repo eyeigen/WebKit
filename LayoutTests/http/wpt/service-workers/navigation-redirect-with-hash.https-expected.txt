@@ -1,4 +1,0 @@
-
-PASS setup
-PASS load iframe with hash
-

@@ -1,7 +1,0 @@
-Tests generic.
-
-x
-
-
-PASS generic role on p element is generic
-

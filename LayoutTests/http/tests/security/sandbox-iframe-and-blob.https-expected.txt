@@ -1,4 +1,0 @@
-
-
-PASS Verify blob URLs are loaded with sandbox iframes
-

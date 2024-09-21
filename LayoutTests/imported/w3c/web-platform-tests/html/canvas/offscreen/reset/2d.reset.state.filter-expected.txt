@@ -1,7 +1,0 @@
-2d.reset.state.filter
-
-check that the state is reset
-
-
-FAIL check that the state is reset assert_true: ctx.filter == 'blur(10px)' expected true got false
-

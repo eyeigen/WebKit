@@ -1,3 +1,0 @@
-
-PASS scroll: scroll() should not work inside a navigate event handler
-

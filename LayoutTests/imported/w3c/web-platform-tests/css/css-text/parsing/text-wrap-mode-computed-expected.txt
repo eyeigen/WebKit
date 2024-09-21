@@ -1,4 +1,0 @@
-
-PASS Property text-wrap-mode value 'wrap'
-PASS Property text-wrap-mode value 'nowrap'
-

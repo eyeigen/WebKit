@@ -1,5 +1,0 @@
-PASS large getImageData worked
-PASS successfullyParsed is true
-
-TEST COMPLETE
-

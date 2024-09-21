@@ -1,3 +1,0 @@
-
-PASS navigate() to the current URL same document should replace
-

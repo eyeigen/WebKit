@@ -1,5 +1,0 @@
-
-PASS
-View transitions: mismatched snapshot containing block size skips transition.
-
-

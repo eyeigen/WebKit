@@ -1,3 +1,0 @@
-
-PASS navigate event for navigation.navigate()
-

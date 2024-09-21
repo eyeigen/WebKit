@@ -1,3 +1,0 @@
-
-FAIL Keyframes with timeline-offsets reported but not reachable when using a document timeline assert_equals: number of frames:  expected 5 but got 3
-

@@ -1,4 +1,0 @@
-
-PASS Test that VideoEncoder.isConfigSupported() doesn't support config: Possible future HEVC codec string
-PASS Test that VideoEncoder.configure() doesn't support config: Possible future HEVC codec string
-

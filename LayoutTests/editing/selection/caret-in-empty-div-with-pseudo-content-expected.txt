@@ -1,3 +1,0 @@
-
-PASS Tests if the cursor respects text align property in emtpy div having pseudo content
-

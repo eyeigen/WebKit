@@ -1,5 +1,0 @@
-PASS mouseDownTimestamp became pointerDownTimestamp
-PASS successfullyParsed is true
-
-TEST COMPLETE
-

@@ -1,3 +1,0 @@
-
-PASS No navigation API events happen on initial page load
-

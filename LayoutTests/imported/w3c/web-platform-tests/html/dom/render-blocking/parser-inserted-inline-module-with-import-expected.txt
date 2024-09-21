@@ -1,4 +1,0 @@
-some text
-
-PASS Parser-inserted module script elements with "blocking=render" are render-blocking
-

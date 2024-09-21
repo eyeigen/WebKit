@@ -1,4 +1,0 @@
-
-PASS WheelEvent#initWheelEvent
-PASS WheelEvent#initWebKitWheelEvent
-

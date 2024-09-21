@@ -1,3 +1,0 @@
-
-FAIL Hit-testing in vertical-rl writing-mode assert_equals: expected 5 but got -155
-

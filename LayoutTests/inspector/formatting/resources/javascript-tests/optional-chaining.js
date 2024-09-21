@@ -1,3 +1,0 @@
-foo  ?.  val?.  prop ;
-foo  ?.  val  ?.  [ "key" ] ;
-foo  ?.  func ?.  ();

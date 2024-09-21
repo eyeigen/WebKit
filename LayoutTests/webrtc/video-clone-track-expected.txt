@@ -1,4 +1,0 @@
-
-
-PASS Ensure cloned track gets the expected width and height
-

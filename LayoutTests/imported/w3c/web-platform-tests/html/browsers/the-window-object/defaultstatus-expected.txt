@@ -1,3 +1,0 @@
-
-PASS The window.defaultStatus and window.defaultstatus attributes are not supported
-

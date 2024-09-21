@@ -1,3 +1,0 @@
-
-PASS SVGImageElement.prototype.decode(), attach to DOM before promise resolves.
-

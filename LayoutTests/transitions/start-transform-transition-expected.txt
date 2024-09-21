@@ -1,3 +1,0 @@
-
-PASS Box should start transition from style change on timer
-

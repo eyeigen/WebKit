@@ -1,3 +1,0 @@
-
-PASS color-mix works as color input
-

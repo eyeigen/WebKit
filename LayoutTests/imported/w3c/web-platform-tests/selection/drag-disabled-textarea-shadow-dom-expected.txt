@@ -1,3 +1,0 @@
-
-PASS Shouldn't crash when dragging disabled textarea in shadow dom
-

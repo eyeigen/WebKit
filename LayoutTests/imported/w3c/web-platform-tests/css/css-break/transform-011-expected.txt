@@ -1,3 +1,0 @@
-
-PASS Rotating 180 degrees with transform origin at the center
-

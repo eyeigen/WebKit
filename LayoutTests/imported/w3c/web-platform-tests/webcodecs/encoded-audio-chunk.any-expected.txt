@@ -1,4 +1,0 @@
-
-PASS Test we can construct an EncodedAudioChunk.
-PASS Test copyTo() exception if destination invalid
-

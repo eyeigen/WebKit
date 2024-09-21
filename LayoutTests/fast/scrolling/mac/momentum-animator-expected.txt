@@ -1,5 +1,0 @@
-PASS window.scrollY > 150 is true
-PASS successfullyParsed is true
-
-TEST COMPLETE
-

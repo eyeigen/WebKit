@@ -1,3 +1,0 @@
-
-PASS Delete characters between blocks in block inserts BR.
-

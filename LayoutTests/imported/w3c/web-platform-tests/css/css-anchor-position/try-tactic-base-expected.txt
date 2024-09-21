@@ -1,3 +1,0 @@
-
-FAIL flip-start affects base values assert_equals: expected "300px" but got "150px"
-

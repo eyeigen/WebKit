@@ -1,3 +1,0 @@
-
-PASS non-passive mousewheel event listener on root
-

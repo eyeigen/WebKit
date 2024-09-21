@@ -1,6 +1,0 @@
-
-PASS Predicted list in boundary events
-PASS Predicted list in pointer-capture events
-PASS Predicted list in pointerdown/move/up events
-PASS Predicted list in pointercancel event
-

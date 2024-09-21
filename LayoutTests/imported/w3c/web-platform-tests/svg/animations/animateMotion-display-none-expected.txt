@@ -1,3 +1,0 @@
-
-PASS Test for checking position of the svg element when animateMotion's mpath is display:none
-

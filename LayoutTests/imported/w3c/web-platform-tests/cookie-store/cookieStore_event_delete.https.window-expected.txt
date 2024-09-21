@@ -1,3 +1,0 @@
-
-PASS cookieStore fires change event for cookie deleted by cookieStore.delete()
-

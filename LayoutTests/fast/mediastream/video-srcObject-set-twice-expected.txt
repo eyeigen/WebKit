@@ -1,5 +1,0 @@
-
-
-
-PASS Validate second srcObject is being rendered
-

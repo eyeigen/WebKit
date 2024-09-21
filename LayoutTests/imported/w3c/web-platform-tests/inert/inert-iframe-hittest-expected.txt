@@ -1,5 +1,0 @@
-
-
-PASS Hit-testing doesn't reach contents of an inert iframe
-PASS Hit-testing can reach contents of a no longer inert iframe
-

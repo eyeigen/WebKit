@@ -1,5 +1,0 @@
-
-PASS Property text-wrap-style value 'auto'
-PASS Property text-wrap-style value 'balance'
-PASS Property text-wrap-style value 'stable'
-

@@ -1,7 +1,0 @@
-<script>
-    fetch("iframe.html").then(()=>{
-        window.parent.postMessage("fetch was not blocked", "*");
-    }).catch(()=>{
-        window.parent.postMessage("fetch was blocked", "*");
-    });
-</script>

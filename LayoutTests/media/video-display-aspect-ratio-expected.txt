@@ -1,4 +1,0 @@
-
-
-PASS Test video dimension aspect ratio.
-

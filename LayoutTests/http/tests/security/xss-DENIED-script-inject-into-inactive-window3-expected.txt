@@ -1,2 +1,0 @@
-CONSOLE MESSAGE: Victim loaded.
-This page doesn't do anything special.

@@ -1,3 +1,0 @@
-
-PASS event.intercept() is called multiple times and one of the promises rejects
-

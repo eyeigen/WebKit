@@ -1,6 +1,0 @@
-
-PASS
-  View transitions: null event.viewTransition when new page removes opt-in
-  before pagereveal
-
-

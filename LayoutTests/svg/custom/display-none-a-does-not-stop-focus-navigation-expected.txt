@@ -1,4 +1,0 @@
-
-
-PASS SVG <a> which is display none does not block focus traversal
-

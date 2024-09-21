@@ -1,2 +1,0 @@
-ALERT: Test passed because nothing crashed
-some text

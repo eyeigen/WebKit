@@ -1,3 +1,0 @@
-
-PASS A frameset tag inside template should be simply ignored.
-

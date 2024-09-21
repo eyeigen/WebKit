@@ -1,3 +1,0 @@
-
-FAIL scroll: scroll() should do nothing when the fragment does not exist assert_not_equals: got disallowed value 0
-

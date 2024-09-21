@@ -1,3 +1,0 @@
-
-PASS Content Visibility: off-screen focus
-

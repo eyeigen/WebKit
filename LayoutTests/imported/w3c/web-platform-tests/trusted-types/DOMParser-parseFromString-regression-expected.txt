@@ -1,9 +1,0 @@
-CONSOLE MESSAGE: Unrecognized Content-Security-Policy directive 'blabla'.
-
-CONSOLE MESSAGE: Unrecognized Content-Security-Policy directive 'blabla'.
-
-
-probe
-
-PASS Regression test for TT changes to parseFromString.
-

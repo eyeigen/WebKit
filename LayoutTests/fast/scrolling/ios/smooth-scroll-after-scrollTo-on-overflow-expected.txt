@@ -1,5 +1,0 @@
-PASS scrollContainer.scrollTop is 700
-PASS successfullyParsed is true
-
-TEST COMPLETE
-

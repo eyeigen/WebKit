@@ -1,4 +1,0 @@
-
-PASS Initial scrollTop with no zoom
-PASS scrollTop after resetting zoom
-

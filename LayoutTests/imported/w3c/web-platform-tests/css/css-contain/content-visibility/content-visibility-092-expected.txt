@@ -1,3 +1,0 @@
-
-PASS getComputedStyle works in hidden c-v subtree and an absolutely positioned element
-

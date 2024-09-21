@@ -1,3 +1,0 @@
-
-PASS Transitioning display property of an anchored popover should not cause a position shift
-

@@ -1,4 +1,0 @@
-
-PASS Document.execCommand("insertHTML") works as usual.
-PASS Document.execCommand("paste") works as usual.
-

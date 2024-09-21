@@ -1,3 +1,0 @@
-
-PASS Make sure cache.put promise does not resolve in detached context
-

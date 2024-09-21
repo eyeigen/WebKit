@@ -1,4 +1,0 @@
-
-PASS Test subframes receive orientation change events
-PASS Check directly that events are fired in right order (from top to bottom)
-

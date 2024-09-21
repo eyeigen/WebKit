@@ -1,3 +1,0 @@
-
-PASS Test whether a script element still executes for XHTML documents.
-

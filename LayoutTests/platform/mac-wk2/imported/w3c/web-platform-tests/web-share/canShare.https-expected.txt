@@ -1,8 +1,0 @@
-
-PASS canShare() empty and default dictionary
-PASS canShare() url member
-PASS canShare() title member
-PASS canShare() text member
-PASS canShare() files member
-PASS canShare() multiple members
-

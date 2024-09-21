@@ -1,9 +1,0 @@
-:host,
-:root {
-  --background-color: red;
-}
-
-div {
-  background-color: var(--background-color);
-  border: 1px solid black;
-}

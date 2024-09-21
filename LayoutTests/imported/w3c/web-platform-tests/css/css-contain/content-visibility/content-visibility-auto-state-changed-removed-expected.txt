@@ -1,3 +1,0 @@
-
-PASS ContentVisibilityAutoStateChange does not fire on disconnected element
-

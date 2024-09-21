@@ -1,4 +1,0 @@
-اختبر SomeText
-
-PASS dir auto: updates on appendChild
-

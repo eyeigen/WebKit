@@ -1,3 +1,0 @@
-
-PASS entry.getState() after history.pushState()
-

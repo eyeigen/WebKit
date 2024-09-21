@@ -1,3 +1,0 @@
-
-PASS Sending sync message with incorrect parameters must throw error
-

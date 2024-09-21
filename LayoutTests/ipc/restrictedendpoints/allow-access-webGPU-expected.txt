@@ -1,2 +1,0 @@
-CONSOLE MESSAGE: PASS: Test runner did not detect GPUP crash.
-

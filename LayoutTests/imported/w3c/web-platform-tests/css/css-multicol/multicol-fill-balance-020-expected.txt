@@ -1,3 +1,0 @@
-
-PASS Nested balanced multicol with very tall content
-

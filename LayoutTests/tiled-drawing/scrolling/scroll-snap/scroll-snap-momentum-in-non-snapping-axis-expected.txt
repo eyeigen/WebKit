@@ -1,5 +1,0 @@
-PASS scrolling momentum the same in snapping and non-snapping axes.
-PASS successfullyParsed is true
-
-TEST COMPLETE
-

@@ -1,3 +1,0 @@
-
-PASS reload() when the onnavigate handler calls preventDefault()
-

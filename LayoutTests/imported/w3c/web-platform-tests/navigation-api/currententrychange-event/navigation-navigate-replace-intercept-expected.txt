@@ -1,4 +1,0 @@
-
-
-PASS currententrychange fires for navigation.navigate() with replace intercepted by intercept()
-

@@ -1,5 +1,0 @@
-Testing that pseudo element selectors correctly show matching selector information.
-
-
-input::placeholder MATCHES
-

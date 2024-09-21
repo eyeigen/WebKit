@@ -1,3 +1,0 @@
-
-PASS SVG should not be executed when the content type is not valid
-

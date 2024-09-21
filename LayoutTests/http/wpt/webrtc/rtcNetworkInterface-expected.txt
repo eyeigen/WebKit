@@ -1,4 +1,0 @@
-
-
-PASS Check rtc network interface detection
-

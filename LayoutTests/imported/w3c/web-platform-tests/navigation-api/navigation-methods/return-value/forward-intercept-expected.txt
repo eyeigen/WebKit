@@ -1,3 +1,0 @@
-
-PASS forward() and intercept() with a fulfilled promise
-

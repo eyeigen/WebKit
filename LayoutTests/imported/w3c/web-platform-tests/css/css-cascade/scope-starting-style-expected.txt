@@ -1,3 +1,0 @@
-
-PASS Style rules within @starting-style are scoped
-

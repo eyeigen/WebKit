@@ -1,3 +1,0 @@
-
-PASS Abs-pos descendant with containing block outside the scroller.
-

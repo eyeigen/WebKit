@@ -1,3 +1,0 @@
-
-FAIL baseline-source-vertical-align assert_equals: expected (string) "auto" but got (undefined) undefined
-

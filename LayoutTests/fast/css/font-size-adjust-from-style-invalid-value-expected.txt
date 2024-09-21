@@ -1,1 +1,0 @@
-This test should not crash on release/debug builds for empty font-size-adjust value
